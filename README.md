@@ -1,2 +1,2 @@
 # Java
-Exercícios das aulas de programação orientada a objeto.
+Exercícios das aulas de (Poo I e II) Programação orientada a objeto - 3º período.
